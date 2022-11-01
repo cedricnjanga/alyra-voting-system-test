@@ -1,0 +1,20 @@
+{
+  "name": "alyra-voting-system-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test",
+    "coverage": "npx hardhat coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "chai": "^4.3.6",
+    "hardhat": "^2.12.1"
+  }
+}
